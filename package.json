@@ -1,0 +1,26 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "Api building",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "https://github.com/Amita999/ExpressApi.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amita999/ExpressApi.git"
+  },
+  "keywords": [
+    "Api"
+  ],
+  "author": "Amita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amita999/ExpressApi/issues"
+  },
+  "homepage": "https://github.com/Amita999/ExpressApi#readme"
+}
